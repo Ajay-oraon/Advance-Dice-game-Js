@@ -10,7 +10,7 @@
 
 ![Advance Dice Game Image 2](./assets/advanced-dice-game-2.png)
 
-An advance dice game, made with HTML, CSS, and JavaScript. Feel free to check the <a href="dice-game-url-here" target="_blank">website/game</a> out, and give feedback on what I can improve if you like.
+An advance dice game, made with HTML, CSS, and JavaScript. Feel free to check the <a href="https://ajay-oraon.github.io/Advance-Dice-game-Js/" target="_blank">website/game</a> out, and give feedback on what I can improve if you like.
 
 ## Technologies:
 1. HTML
