@@ -1,4 +1,3 @@
-# Advance-Dice-game-Js
 # Advance Dice Game
 
 [![Advance Dice Game](https://img.shields.io/badge/Advance_Dice_Game-purple)](dice-game-url-here)
@@ -32,13 +31,12 @@ If you really like the Advance Dice Game, and you see something you can improve,
 5. Intermediate Data Structures And Algorithms
 6. Problem Solving Skills
 
-## License:
-This project is under the MIT license. Feel free to do whatever you want with it, I really don't care.
+
 
 ## Conclusion:
 If you are someone that are looking to hire a developer, whether it is freelancing work, an internship, or a full time position, feel free to reach out to me with one of the following channels: 
 <div>
-  <a href="mailto: business@williamferns.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a target="_blank"href="https://www.linkedin.com/in/william-ferns-12670a2b6/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a target="_blank"href="https://twitter.com/willfernsdev"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto: ajayoraon239@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a target="_blank"href="https://www.linkedin.com/in/ajay-kumar-oraon-759234195/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a target="_blank"href="https://twitter.com/ajayKrOraon"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </div>
